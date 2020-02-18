@@ -2,3 +2,5 @@ week 2 mbl-ml
 tracking works?
 
 dosyayı yeniden değiştirdiğinde ve yeni dosya açtığında
+
+Yeniden marsı revize edince, 2 sini bir arada commit etmek

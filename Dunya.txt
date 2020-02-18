@@ -1,0 +1,2 @@
+yenibir dosya eklediğinde, commit etmek zorunda değilsin.
+Yeni eklenen dosya + olarak gözüküyor,  dot lı olan da değişiklik olmuş oluyor.
